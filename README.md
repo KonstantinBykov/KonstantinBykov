@@ -21,6 +21,9 @@
 <div>
   <img src="https://img.shields.io/badge/python-white?logo=python&style=for-the-badge" title="Python" alt="Python" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/TensorFlow-white?logo=TensorFlow&style=for-the-badge" title="TensorFlow" alt="TensorFlow" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/PyTorch-white?logo=PyTorch&style=for-the-badge" title="PyTorch" alt="PyTorch" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/OpenCV-white?logo=OpenCV&style=for-the-badge" title="OpenCV" alt="OpenCV" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/Keras-white?logo=Keras&style=for-the-badge" title="Keras" alt="Keras" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/pandas-white?logo=pandas&logoColor=blue&style=for-the-badge" title="Pandas" alt="Pandas" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/numpy-white?logo=numpy&logoColor=blue&style=for-the-badge" title="Numpy" alt="Numpy" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/plotly-white?logo=plotly&logoColor=blue&style=for-the-badge" title="Plotly" alt="Plotly" height="40"/>&nbsp;
